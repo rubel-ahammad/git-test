@@ -1,2 +1,3 @@
 New line 1
-Another line
+Line 2 edited remotely
+Line 3 added in the remote
