@@ -1,3 +1,4 @@
 New line 1
 Line 2 conflict resolved locally
 Line 3 added in the remote
+Line 4 added in the remote
